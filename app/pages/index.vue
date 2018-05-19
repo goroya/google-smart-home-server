@@ -1,3 +1,3 @@
 <template>
-  <h1>Hello worlaaaasssssd!</h1>
+  <h1>Hello Github!</h1>
 </template>
